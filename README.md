@@ -1,0 +1,4 @@
+- 👋 Hi, my commpanys name is programming encrypted
+- 👀 I’m interested in programing 
+- 🌱 I’m currently learning python/java
+- 📫 How to reach me my companys email is programming.encrypted@gmail.com
